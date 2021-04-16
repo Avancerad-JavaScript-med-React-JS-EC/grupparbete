@@ -2,7 +2,7 @@
 
 Du ska bygga en webbapp där du kan beställa kaffe och få den levererad via drönare (drönare ingår ej i uppgiften).
 
-**Figmaskiss:** https://www.figma.com/file/kXZaZLMYQzXzgC2k6o4ne0/AirBean-v.1.2---React?node-id=0%3A1
+**Figmaskiss:** https://www.figma.com/file/b6b1D1Skjb1n3sTCaTqlSB/AirBean-v.1.2---React-(Copy)?node-id=0%3A1
 
 ## Instruktioner
 
